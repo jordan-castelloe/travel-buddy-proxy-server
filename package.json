@@ -1,5 +1,5 @@
 {
-  "name": "Proxy Server",
+  "name": "ProxyServer",
   "version": "1.0.0",
   "description": "proxy server for front end capstone at NSS",
   "main": "server.js",
