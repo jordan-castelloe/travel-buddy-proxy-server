@@ -1,0 +1,31 @@
+{
+  "name": "Proxy Server",
+  "version": "1.0.0",
+  "description": "proxy server for front end capstone at NSS",
+  "main": "server.js",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jordan Castelloe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlaiseRoberts/proxy-server/issues"
+  },
+  "homepage": "https://github.com/BlaiseRoberts/proxy-server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "proxy-server"
+  },
+  "keywords": [
+    "proxy",
+    "server"
+  ]
+}
